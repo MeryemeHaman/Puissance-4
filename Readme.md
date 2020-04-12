@@ -19,7 +19,7 @@ Exécution du programme
 
 Note
 ----
-* Pour sortir du jeu, il suffit de fermer le plateu de jeu .
+* Pour sortir du jeu, il suffit de fermer le plateau de jeu .
 
 
 
